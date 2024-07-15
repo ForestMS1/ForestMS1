@@ -27,6 +27,7 @@ You can click the Preview link to take a look at your changes.
 <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdsking)](https://solved.ac/kdsking)
+<img src="http://mazandi.herokuapp.com/api?handle=kdsking&theme=cold"/>
 
 
 
