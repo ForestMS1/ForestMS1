@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ForestMS1
+<!---
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C# & Unity
+--->
 
 
 <!---
