@@ -54,7 +54,7 @@ C++ · DirectX 11 · HLSL · Rendering · Optimization · Tools
 | GPU 컬링 배치 · Release | 5.15 ms | **0.48 ms** |
 | Deferred Context 기록 | 13–14 ms | **약 5.5 ms** |
 
-[▶ 플레이 영상](https://youtu.be/2ldoq8TVPvw) · [📂 GitHub](https://github.com/limits1214/JUSIN_160_FINAL_TEAM_PROJECT) · [📘 상세 기술 문서](https://app.notion.com/p/3afeeaf2f36e818ead66d5669b163338)
+[▶ 플레이 영상](https://youtu.be/2ldoq8TVPvw)
 
 ---
 
