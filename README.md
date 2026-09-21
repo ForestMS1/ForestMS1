@@ -80,7 +80,7 @@ Hi-Z 컬링, Deferred Context, Command List 캐시를 적용하고 병목 구간
 
 ## 📫 Contact
 
-- Email: [kdsking1581@naver.com](mailto:kdsking1581@naver.com)
+- Email: [dasung56@gmail.com](mailto:dasung56@gmail.com)
 
 <div align="center">
 
